@@ -94,4 +94,4 @@ feature/
 
 | Characters | Detail | Favorites |
 |:---:|:---:|:---:|
-| ![Light Characters](screenshots/character_list_ligth.jpeg) | ![Light Detail](screenshots/character_detail_ligth.jpeg) | ![Light Favorites](screenshots/favorites_ligth.jpeg) |
+| ![Light Characters](screenshots/character_list_ligth.jpeg) | ![Light Detail](screenshots/favorites_ligth.jpeg) | ![Light Favorites](screenshots/character_detail_ligth.jpeg) |
