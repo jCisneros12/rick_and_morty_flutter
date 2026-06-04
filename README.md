@@ -44,7 +44,18 @@ El repositorio verifica conectividad antes de llamar a la API. Sin conexión, si
 | cached_network_image | Caché de imágenes |
 | dartz | Either para manejo de errores |
 
-## Cómo ejecutar
+
+### 1. Configura las variables de entorno
+
+El archivo `.env` no se incluye en el repositorio por seguridad. Debes crearlo manualmente en la raíz del proyecto:
+
+Créalo manualmente con este contenido:
+
+```
+BASE_URL=https://rickandmortyapi.com/api
+```
+
+### 2. Instala dependencias y corre la app
 
 ```bash
 flutter pub get
