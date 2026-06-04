@@ -88,10 +88,10 @@ feature/
 
 | Characters | Detail | Favorites |
 |:---:|:---:|:---:|
-| ![Dark Characters](screenshots/dark_characters.png) | ![Dark Detail](screenshots/dark_detail.png) | ![Dark Favorites](screenshots/dark_favorites.png) |
+| ![Dark Characters](screenshots/dark_characters.jpeg) | ![Dark Detail](screenshots/dark_detail.jpeg) | ![Dark Favorites](screenshots/dark_favorites.jpeg) |
 
 ### ☀️ Light Mode
 
 | Characters | Detail | Favorites |
 |:---:|:---:|:---:|
-| ![Light Characters](screenshots/light_characters.png) | ![Light Detail](screenshots/light_detail.png) | ![Light Favorites](screenshots/light_favorites.png) |
+| ![Light Characters](screenshots/light_characters.jpeg) | ![Light Detail](screenshots/light_detail.jpeg) | ![Light Favorites](screenshots/light_favorites.jpeg) |
